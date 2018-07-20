@@ -11,7 +11,7 @@ import time
 
 filename = "../beetroot_reply.txt"
 my_file = open(filename, mode='a', encoding='utf-8')
-token = '498595606:AAFZJGSmXkD4z-zgmcWRo1uRKKvwK1mokjw'
+token = ''
 
 bot = telebot.TeleBot(token)
 
